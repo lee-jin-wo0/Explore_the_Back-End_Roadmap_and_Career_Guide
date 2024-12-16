@@ -56,7 +56,7 @@ DNS 서버는 도메인을 체계적으로 관리하기 위해 도메인과 IP �
 
 각 계층마다 해당 도메인을 관리하는 DNS 서버가 있으며 상위 계층 DNS 서버는 하위 계층의 도메인에 대한 정보를 관리하며, 하위 계층 DNS 서버의 IP주소를 저장하고 있음.
 
-<img src="C:\Users\leeji\Desktop\화면 캡처 2024-12-16 154234.png" alt="화면 캡처 2024-12-16 154234" style="zoom: 67%;" />
+<img src="C:\Users\leeji\Desktop\BackendDevelopmentThatLooksAsGoodAsYouKnow\Chapter_02\2.1 네트워크\그림2.5.png" alt="그림2.5" style="zoom: 67%;" />
 
 <br />
 
