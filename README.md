@@ -8,7 +8,7 @@
 
 1. [백엔드 시작하기](/Chapter_01)
 2. [CS 기초 지식](/Chapter_02)
-3. [백엔드 개발 언어와 프레임워크(/Chapter_03)
+3. [백엔드 개발 언어와 프레임워크](/Chapter_03)
 4. [DBMS](/Chapter_04)
 5. [API](/Chapter_05)
 6. [버전 관리 시스템](/Chapter_06)
